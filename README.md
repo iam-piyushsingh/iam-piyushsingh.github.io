@@ -5,7 +5,7 @@ A professional portfolio website for Piyush Singh, Class 9 CBSE student & 3× Sc
 
 ## 📁 File Structure
 ```
-piyush.jkpatelnx.in/
+iam-piyushsingh/
 ├── index.html       ← Main page
 ├── styles.css       ← Styling
 ├── script.js        ← Animations & interactivity
